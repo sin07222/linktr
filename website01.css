@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+
+.h1{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+    color:azure;
+}
+#scon{
+    text-align:center ;
+}
+.ling{
+    background-image: url("images/btn.png") ;
+    background-repeat:no-repeat;
+    margin-top: 60px;
+    height: 60px;
+    background-position:center;
+    text-align:center ;
+    line-height:50px;
+    color: rgb(59, 121, 255);
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight:bolder;
+    opacity: 0.8;
+}
+
+.soba{
+    background-image: url("images/btn.png") ;
+    background-repeat:no-repeat;
+    margin-top: 60px;
+    height: 60px;
+    background-position:center;
+    text-align:center ;
+    line-height:50px;
+    margin-top: 30px;
+    color: rgb(59, 121, 255);
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight:bolder;
+    opacity: 0.8;
+}
+a:link{
+    text-decoration:none;
+}
+body{
+    background-image: url("images/136775227_3589829717765816_8747962515626559499_n.jpg");
+    background-repeat:no-repeat;
+    background-position:50% 0;
+}
+@media (orientation:portrait){
+    body{
+        background-image: url("images/136775227_3589829717765816_8747962515626559499_n.jpg");
+        background-repeat:no-repeat;
+        background-position:50% 500;
+        background-size: 200%;
+    }
+}
