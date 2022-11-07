@@ -21,6 +21,7 @@
     font-family: 'Noto Sans TC', sans-serif;
     font-weight:bolder;
     opacity: 0.8;
+    font-size: large;
 }
 
 .soba{
@@ -36,6 +37,7 @@
     font-family: 'Noto Sans TC', sans-serif;
     font-weight:bolder;
     opacity: 0.8;
+    font-size: large;
 }
 a:link{
     text-decoration:none;
